@@ -11,6 +11,7 @@ Open-source developer from Athens, building mobile apps for **Ubuntu Touch** and
 
 ## 📦 Projects
 - 🔐 **[Password Manager](https://github.com/renzard/passowrd-manager-app)** – Local-only, encrypted KeePass-style vault for Ubuntu Touch (QML + Python)
+- 🏪 **[ATL Store](https://github.com/renzard/atl-store)** – Android app store for Ubuntu Touch: browse F-Droid apps and run them through Android Translation Layer (QML + Python)
 - 🧮 **[Trollculator](https://github.com/renzard/trollculator)** – Calculator with easter eggs and memes for Ubuntu Touch
 - 📱 **[TrollCalculator-android](https://github.com/renzard/TrollCalculator-android)** – Kotlin/Jetpack Compose port of Trollculator
 - 🌐 **[Xwebapp](https://github.com/renzard/Xwebapp)** / **[instagram-unofficial](https://github.com/renzard/instagram-unofficial)** / **[reddit-unofficial](https://github.com/renzard/reddit-unofficial)** – Lightweight webapps for Ubuntu Touch
